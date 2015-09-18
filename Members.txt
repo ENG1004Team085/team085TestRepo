@@ -5,3 +5,11 @@ MEMBER 1 NAME
 MEMBER 2 NAME
 
 MEMBER 3 NAME
+
+Siaw Ling Tsen
+
+Brief introduction: A first year engineering student blaaa :D
+
+Role in project: Team worker
+
+Preferred branch of engineering: Civil engineering
