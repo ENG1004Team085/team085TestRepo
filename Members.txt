@@ -2,6 +2,14 @@ LIST OF MEMBERS FOR TEAM 85
 
 MEMBER 1 NAME
 
+Siaw Ling Tsen
+
+Brief introduction: A first year engineering student blaaa :D
+
+Role in project: Team worker
+
+Preferred branch of engineering: Civil engineering
+
 MEMBER 2 NAME
 
 Sara Fortunato
@@ -21,4 +29,5 @@ My name is Ambar hehe.
 Role in project: Programmer
 
 Preffered branch of engineering: Aerospace
+
 
