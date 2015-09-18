@@ -5,3 +5,12 @@ MEMBER 1 NAME
 MEMBER 2 NAME
 
 MEMBER 3 NAME
+
+Ambar Srivastava
+
+My name is Ambar hehe.
+ 
+Role in project: Programmer
+
+Preffered branch of engineering: Aerospace
+
